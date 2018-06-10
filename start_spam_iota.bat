@@ -1,0 +1,1 @@
+java -jar isf-jclient-1.0.14.jar -email nthon01@gmail.com -pass Hnr90JCVSluj -autostart -spamnet
